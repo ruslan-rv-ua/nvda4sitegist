@@ -1,7 +1,18 @@
 # NVDA for SiteGist
 
-NVDA screen reader for Windows. 
+`NVDA 2020.2` screen reader for Windows. 
 
-1. Click [here](./files/nvda.zip) to download `NVDA 2020.2` (zip, 76 MB)
-1. Unzip
-1. Start `nvda.exe`
+## Download
+
+1. Goto [this page](./files/nvda.zip) and click `download` (nvda.zip, 76 MB)
+   or just
+   ```
+   git clone https://github.com/ruslan-rv-ua/nvda4sitegist
+   ```
+   
+1. Unzip `nvda.zip`
+
+
+## Quckstart
+
+To run NVDA just start `nvda.exe`. 
